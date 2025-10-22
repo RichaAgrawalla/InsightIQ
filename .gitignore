@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+*.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Hugging Face cache / models (optional)
+~/.cache/huggingface/
+
+# Secret tokens
+.env
